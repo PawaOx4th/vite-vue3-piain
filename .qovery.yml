@@ -1,0 +1,11 @@
+---
+application:
+  name: "vite-vue3-piain"
+  project: "test"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-vite-vue3-piain"
+  routes:
+  - application_name: "vite-vue3-piain"
+    paths:
+    - "/*"
